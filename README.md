@@ -23,7 +23,6 @@ Before you begin, ensure you have the following installed:
 
 Clone this repository to your local machine:
 
-```bash
 git clone https://github.com/yourusername/luxury_login.git
 cd luxury_login
 ```
